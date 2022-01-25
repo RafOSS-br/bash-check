@@ -1,0 +1,1 @@
+dpkg -l | awk '(print $2 $3)' | sed '1,5d'
