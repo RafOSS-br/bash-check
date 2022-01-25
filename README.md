@@ -1,1 +1,1 @@
-# bash-check
+#Checagens padrão server
