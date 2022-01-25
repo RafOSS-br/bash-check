@@ -1,1 +1,3 @@
-#Checagens padrão server
+<strong>Checagens padrão server</strong>
+
+Lembrar do log
